@@ -1,2 +1,2 @@
 # Python-Projects
-Where you can find all my jobs done, using python.
+Explore all my Python-based projects here..
